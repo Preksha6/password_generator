@@ -8,7 +8,7 @@ It helps users generate **strong and secure passwords** based on selected criter
 ## 🚀 Live Demo (Optional)
 
 🔗(Vercel):  
-`https://password-generator-55ifm2r2f-preksha-maheshwaris-projects.vercel.app/`
+`https://password-generator-tau-blue.vercel.app/`
 
 ---
 
