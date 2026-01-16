@@ -1,13 +1,13 @@
 # 🔐 Password Generator (React + Vite)
 
 A modern and responsive **Password Generator Web App** built using **React + Vite**.  
-It helps users generate **strong and secure passwords** based on selected criteria like length,numbers, and symbols.
+It helps users generate **strong and secure passwords** based on selected criteria like length,numbers, and symbols and also copy it.
 
 ---
 
 ## 🚀 Live Demo (Optional)
 
-🔗 Add your deployed link here (Vercel):  
+🔗(Vercel):  
 `https://password-generator-55ifm2r2f-preksha-maheshwaris-projects.vercel.app/`
 
 ---
